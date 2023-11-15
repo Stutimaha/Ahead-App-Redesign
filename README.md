@@ -37,3 +37,15 @@ The project is deployed and can be accessed [here](https://density-exchange-stut
    ```bash
    git clone https://github.com/Stutimaha/Density-Exchange
    cd density-exchange
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+
+3. Run the development server:
+
+   ```bash
+   npm run dev
+
+4. Open your browser and visit [http://localhost:3000](http://localhost:3000) to view the application.

@@ -75,10 +75,7 @@ const WorkWithUs = () => {
                  Power through, even when the going gets tough
                 </h2>
                 <p className="font-normal">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Accusamus fugit ipsum voluptate deserunt, non velit a
-                  blanditiis officia dolor eligendi eveniet cumque quasi
-                  reprehenderit minus?
+                  We are a team of passionate people who love to build amazing products. We really love our work and we do it with pleasure.
                 </p>
               </div>
             ))}

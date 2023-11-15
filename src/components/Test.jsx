@@ -12,7 +12,7 @@ const Test = () => {
       </p>
       <div className="flex flex-row gap-2 items-center justify-center">
         <p className="font-semibold">
-          with Love, <a href="https://www.linkedin.com/in/stuti-mahajan/"><b><i>Stuti Mahajan</i></b></a>
+          with Love, <b><i>Team Ahead</i></b>
         </p>
       </div>
       <motion.div

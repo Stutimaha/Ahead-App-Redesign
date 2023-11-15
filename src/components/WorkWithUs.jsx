@@ -53,18 +53,14 @@ const WorkWithUs = () => {
               <div className="flex flex-col gap-3 p-4">
                 <h2 className="text-xl font-bold">About</h2>
                 <p className="font-normal">
-                  We are a team of passionate people who love to build amazing products. We really love our work and we do it with pleasure.
+                 At ahead our goal is to make self- improvement fun and lasting. We know there's a way how to make it work. And that's what aHead is all about!
                 </p>
               </div>
 
               <div className="flex flex-col gap-2 pt-8  p-4 rounded-2xl  mt-8 bg-orange-50">
                 <h2 className="text-xl font-bold">Product</h2>
                 <p className="font-normal">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Dolore temporibus dignissimos, laboriosam corporis deleniti
-                  quod quidem explicabo? Repellendus officiis odit corrupti
-                  ducimus soluta dolor accusamus repellat, nostrum suscipit,
-                  distinctio ipsam!
+                  We are a team of passionate people who love to build amazing products. We really love our work and we do it with pleasure.
                 </p>
               </div>
             </div>
@@ -76,7 +72,7 @@ const WorkWithUs = () => {
                 key={index}
               >
                 <h2 className="font-bold">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing.
+                 Power through, even when the going gets tough
                 </h2>
                 <p className="font-normal">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.

@@ -16,7 +16,7 @@ const EverWonder = () => {
         }}
       >
         <h3 className="text-center text-gray-600 text-lg font-semibold">
-          Let your friends, family, and co-worker (Anonymonosly) rate your social
+          Let your friends, family, and co-worker (Anonymously) rate your social
           skills.
         </h3>
         <h1 className="text-[2.6rem] font-bold text-center mt-4">

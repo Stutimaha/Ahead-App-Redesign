@@ -135,7 +135,7 @@ const EverWonder = () => {
                 }}
               >
                 <div className="absolute  whitespace-nowrap   text-white p-3 bg-green-400 rounded-[0.6rem]  top-[2rem] left-[52%]">
-                  Anonymonos 3
+                  Anonymous 3
                 </div>
               </motion.div>
             </div>

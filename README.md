@@ -19,18 +19,18 @@ For a demonstration of the project, please watch the [video here](https://youtu.
 
 ## Project Structure
 
-- 'public': Folder containing images and SVGs used in the project.
-- 'src': Source code folder.
-  - 'app': Main application files.
-  - 'components': Reusable React components.
-- '.eslintrc.json': ESLint configuration file for code linting.
-- '.gitignore': Specifies files that should be ignored by Git.
-- '.jsconfig.json': Configuration file for JavaScript projects using VSCode.
-- 'next.config.js': Configuration file for Next.js.
-- 'package.json': Project metadata and dependencies.
-- 'package-lock.json': Lock file for npm dependencies.
-- 'postcss.config.js': Configuration file for PostCSS.
-- 'tailwind.config.js': Configuration file for Tailwind CSS.
+- `public`: Folder containing images and SVGs used in the project.
+- `src`: Source code folder.
+  - `app`: Main application files.
+  - `components`: Reusable React components.
+- `.eslintrc.json`: ESLint configuration file for code linting.
+- `.gitignore`: Specifies files that should be ignored by Git.
+- `.jsconfig.json`: Configuration file for JavaScript projects using VSCode.
+- `next.config.js`: Configuration file for Next.js.
+- `package.json`: Project metadata and dependencies.
+- `package-lock.json`: Lock file for npm dependencies.
+- `postcss.config.js`: Configuration file for PostCSS.
+- `tailwind.config.js`: Configuration file for Tailwind CSS.
 
 ## Deployment
 

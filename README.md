@@ -6,11 +6,11 @@ Density Exchange is a trading platform with a vision to bring innovative financi
 
 ## Deployment
 
-The project is deployed and can be accessed [here](https://density-exchange-stutimahajan.netlify.app/).
+The project is deployed and can be accessed [here](https://density-exchange-stutimahajan.netlify.app/){:target="_blank"}.
 
 ## Video Demonstration
 
-For a demonstration of the project, please watch the [video here](<video-link>).
+For a demonstration of the project, please watch the [video here](https://youtu.be/TmdA1Qi_Glo).
 
 ## Tech Stack
 
@@ -19,18 +19,18 @@ For a demonstration of the project, please watch the [video here](<video-link>).
 
 ## Project Structure
 
-- **public**: Folder containing images and SVGs used in the project.
-- **src**: Source code folder.
-  - **app**: Main application files.
-  - **components**: Reusable React components.
-- **.eslintrc.json**: ESLint configuration file for code linting.
-- **.gitignore**: Specifies files that should be ignored by Git.
-- **.jsconfig.json**: Configuration file for JavaScript projects using VSCode.
-- **next.config.js**: Configuration file for Next.js.
-- **package.json**: Project metadata and dependencies.
-- **package-lock.json**: Lock file for npm dependencies.
-- **postcss.config.js**: Configuration file for PostCSS.
-- **tailwind.config.js**: Configuration file for Tailwind CSS.
+- 'public': Folder containing images and SVGs used in the project.
+- 'src': Source code folder.
+  - 'app': Main application files.
+  - 'components': Reusable React components.
+- '.eslintrc.json': ESLint configuration file for code linting.
+- '.gitignore': Specifies files that should be ignored by Git.
+- '.jsconfig.json': Configuration file for JavaScript projects using VSCode.
+- 'next.config.js': Configuration file for Next.js.
+- 'package.json': Project metadata and dependencies.
+- 'package-lock.json': Lock file for npm dependencies.
+- 'postcss.config.js': Configuration file for PostCSS.
+- 'tailwind.config.js': Configuration file for Tailwind CSS.
 
 ## Deployment
 
@@ -63,4 +63,5 @@ The project successfully implements the provided design with animations using Ne
 ## Contact
 
 - LinkedIn: [Stuti Mahajan](https://www.linkedin.com/in/stuti-mahajan/)
+- Email: [stutimahajan15@gmail.com](mailto:stutimahajan15@gmail.com)
 

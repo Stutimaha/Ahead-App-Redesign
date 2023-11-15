@@ -4,6 +4,14 @@
 
 Density Exchange is a trading platform with a vision to bring innovative financial products based on blockchain to users worldwide. This GitHub repository contains the code for the Frontend UI Intern Task, as specified in the given requirements.
 
+## Deployment
+
+The project is deployed and can be accessed [here](https://density-exchange-stutimahajan.netlify.app/).
+
+## Video Demonstration
+
+For a demonstration of the project, please watch the [video here](<video-link>).
+
 ## Tech Stack
 
 - Frontend Framework: Next.js
@@ -47,3 +55,12 @@ The project is deployed and can be accessed [here](https://density-exchange-stut
    npm run dev
 
 4. Open your browser and visit [http://localhost:3000](http://localhost:3000) to view the application.
+
+## Task Completion
+
+The project successfully implements the provided design with animations using Next.js and Tailwind CSS. Components are organized in the `src/components` folder, and the overall project structure adheres to best practices.
+
+## Contact
+
+- LinkedIn: [Stuti Mahajan](https://www.linkedin.com/in/stuti-mahajan/)
+

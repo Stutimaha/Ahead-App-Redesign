@@ -47,7 +47,7 @@ const EverWonder = () => {
               </div>
             </div>
             <div className="text-center font-semibold">
-              Let other Anonymonosly answer <br />
+              Let other Anonymously answer <br />
               question about you.
             </div>
           </div>

@@ -1,8 +1,11 @@
 # Density Exchange - Frontend UI Intern Task
+This project is a part of the application for the Frontend UI Intern position at Density Exchange. The goal of this project is to develop a webpage with animation based on a provided design using Next.js and the chosen CSS library (Tailwind CSS, SCSS or Material-UI).
 
 ## Overview🌐
 
-Density Exchange is a trading platform with a vision to bring innovative financial products based on blockchain to users worldwide. This GitHub repository contains the code for the Frontend UI Intern Task, as specified in the given requirements.
+- Replicated the design from [Dribbble - Ahead App Redesign Concept](https://dribbble.com/shots/19807069-Ahead-app-redesign-concept) with animations.
+- Utilized Next.js for building the project, providing server-side rendering capabilities and optimized performance.
+- Leveraged Tailwind CSS for styling the components, ensuring a responsive and visually appealing UI.
 
 ## Deployment🚀
 
@@ -41,8 +44,8 @@ The project is deployed and can be accessed [here](https://density-exchange-stut
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Stutimaha/Density-Exchange
-   cd density-exchange
+   git clone https://github.com/Stutimaha/Ahead-App-Redesign
+   cd Ahead-App-Redesign
 
 2. Install dependencies:
 

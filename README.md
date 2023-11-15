@@ -6,7 +6,7 @@ Density Exchange is a trading platform with a vision to bring innovative financi
 
 ## Deployment
 
-The project is deployed and can be accessed [here](https://density-exchange-stutimahajan.netlify.app/{:target="_blank"}).
+The project is deployed and can be accessed [here](https://density-exchange-stutimahajan.netlify.app/).
 
 ## Video Demonstration
 

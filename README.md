@@ -11,8 +11,6 @@ Density Exchange is a trading platform with a vision to bring innovative financi
 
 ## Project Structure
 
-- **.next**: Auto-generated folder by Next.js for build files.
-- **node_modules**: Node.js modules required for the project.
 - **public**: Folder containing images and SVGs used in the project.
 - **src**: Source code folder.
   - **app**: Main application files.

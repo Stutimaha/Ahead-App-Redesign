@@ -60,7 +60,7 @@ const WorkWithUs = () => {
               <div className="flex flex-col gap-2 pt-8  p-4 rounded-2xl  mt-8 bg-orange-50">
                 <h2 className="text-xl font-bold">Product</h2>
                 <p className="font-normal">
-                  We are a team of passionate people who love to build amazing products. We really love our work and we do it with pleasure.
+                  Sure, you could spend ages reading books or sitting in seminars on how to become a better spouse, parent, or manager - like we did...
                 </p>
               </div>
             </div>

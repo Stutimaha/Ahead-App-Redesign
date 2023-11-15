@@ -35,5 +35,5 @@ The project is deployed and can be accessed [here](https://density-exchange-stut
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Stutimaha/Density-Exchange
    cd density-exchange
